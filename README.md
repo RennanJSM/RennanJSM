@@ -21,7 +21,7 @@ Be welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce
 ## What I'm aiming for
 
 - 🤖 **Data Science Internship**
-- 🚀 **More experience as a Back-end developer (and also an internship)**
+- 🚀 **More experience as a Full-stack developer (and also an internship)**
 
 
 
