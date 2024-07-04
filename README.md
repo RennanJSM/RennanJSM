@@ -34,7 +34,7 @@ Thanks for visiting my profile!
 
 ![Rennan Miranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanJSM&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanJSM&layout=compact)](https://github.com/RennanJSM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanJSM&layout=compact&show_icons=true&theme=dracula)](https://github.com/RennanJSM/github-readme-stats)
 
 ## Techs I use in my day-to-day
 
