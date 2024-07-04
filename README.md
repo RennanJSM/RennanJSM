@@ -1,4 +1,4 @@
- ## Hi there! 👋 I'm Rennan Miranda,
+ ## Hi there! 👋 I'm Rennan Miranda, a 22-year-old developer.
 Be welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself:
 
 ## About Me
@@ -17,6 +17,12 @@ Be welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce
 
 - 🌱 **Learning and Growing**: Continuously expanding my knowledge in Information Systems and related fields.
 - 💻 **Projects**: Currently working on several projects that span web development, mobile applications, and data analysis.
+
+## What I'm aiming for
+
+- 🤖 **Data Science Internship**
+- 🚀 **More experience as a Back-end developer (and also an internship)**
+
 
 
 Feel free to check out my repositories and projects. I am always open to feedback, collaboration, and learning opportunities. Let's connect and create something amazing together! 🚀
