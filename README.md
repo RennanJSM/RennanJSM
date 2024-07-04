@@ -1,4 +1,4 @@
- Hi there! 👋 I'm Rennan Miranda,
+ ## Hi there! 👋 I'm Rennan Miranda,
 Be welcome to my GitHub profile! I'm thrilled to have you here. Let me introduce myself:
 
 ## About Me
